@@ -17,15 +17,13 @@ body {
   margin: 0px 25px;
   align-self: flex-start;
 }
-.middle {
-  border-left: 3px dashed #3c6074;
-  height: 110vh;
-}
 .right {
   width: 37%;
   align-self: flex-start;
   margin: 23.904px 25px;
   text-align: left;
+  padding-left: 2.5%;
+  border-left: 3px dashed #3c6074;
 }
 .heading {
   background: #19afc2;
@@ -111,13 +109,11 @@ h2 {
   width: 8%;
 }
 .section6 h2 {
-  width: 15%;
   display: inline-block;
   font-size: x-large;
   text-align: center;
 }
 .section6 h2 + h2 {
-  width: 25%;
   display: inline-block;
   vertical-align: super;
 }
@@ -126,13 +122,11 @@ h2 {
   height: 73px;
 }
 .section7 h2 {
-  width: 26%;
   display: inline-block;
   font-size: x-large;
   text-align: center;
 }
 .section7 h2 + h2 {
-  width: 20%;
   display: inline-block;
   vertical-align: super;
 }
@@ -141,13 +135,11 @@ h2 {
   height: 73px;
 }
 .section8 h2 {
-  width: 34%;
   display: inline-block;
   font-size: x-large;
   text-align: center;
 }
 .section8 h2 + h2 {
-  width: 20%;
   display: inline-block;
   vertical-align: super;
 }
@@ -156,13 +148,11 @@ h2 {
   height: 73px;
 }
 .section9 h2 {
-  width: 39%;
   display: inline-block;
   font-size: x-large;
   text-align: center;
 }
 .section9 h2 + h2 {
-  width: 20%;
   display: inline-block;
   vertical-align: super;
 }
