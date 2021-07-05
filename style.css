@@ -162,13 +162,13 @@ h2 {
 }
 .section10-image {
   display: inline-block;
-  width: 20%;
 }
 .section10-content {
   display: inline-block;
   width: 75%;
 }
 .section10-image img {
+  width: 100px;
   height: 100px;
 }
 .section10 p {
