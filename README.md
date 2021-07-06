@@ -1,3 +1,3 @@
 # Banner-Task
 
-## Hosted on - https://thirsty-yonath-344932.netlify.app/
+## Hosted on - https://mohit-b251wd-task2.netlify.app
