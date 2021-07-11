@@ -76,6 +76,7 @@ h2 {
 }
 .section3 {
   width: 20%;
+  min-width: 107px;
   text-align: right;
   vertical-align: top;
   display: inline-block;
